@@ -16,6 +16,7 @@ An Open-Source Roblox Studio Plugin
 - If there isn't the Plugin, then open the Toolbox:
 <img width="478" height="51" alt="image" src="https://github.com/user-attachments/assets/d67fcee3-cdc5-4e3f-b974-5abe776bc442" />
 <img width="137" height="119" alt="{BCEC6B35-E287-4838-B6FA-25F61582CBD4}" src="https://github.com/user-attachments/assets/fcc37474-935f-4365-a8ca-4c7c568cf244" />
+
 - Go to Inventory
 <img width="270" height="196" alt="image" src="https://github.com/user-attachments/assets/32913066-869e-4822-b146-9393d5b68160" />
 - Choose the Right Category
