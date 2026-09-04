@@ -7,6 +7,7 @@ An Open-Source Roblox Studio Plugin
 - Close Roblox Studio if it is Opened
 - Install the Plugin here: https://create.roblox.com/store/asset/86432309809302/LuauJs
 <img width="343" height="218" alt="{A0EB30EE-1CCD-4CC4-A3E7-51311905521E}" src="https://github.com/user-attachments/assets/c10ed4fe-5291-4a1e-85da-c33e0fb34990" />
+
 - Open Roblox Studio and open any Experience
 - Check in Plugins Tab if there is the LuauJS Framework
 <img width="480" height="53" alt="image" src="https://github.com/user-attachments/assets/dbd2dacd-c561-42b8-a1c2-add71c4cae93" />
