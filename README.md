@@ -4,7 +4,7 @@ An Open-Source Roblox Studio Plugin
 ## If you want to Install this Framework Outside from Roblox Studio checkout https://github.com/cutehamster290-tech/Luaujs-Framework-NPM
 
 # How to Install
-- **Click on the Images if they are too much little.**
+- **Click on the images if they appear too small!**
 - Close Roblox Studio if it is Opened
 
 - Install the Plugin here: https://create.roblox.com/store/asset/86432309809302/LuauJs
