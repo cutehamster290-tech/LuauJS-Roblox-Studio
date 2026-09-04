@@ -11,6 +11,7 @@ An Open-Source Roblox Studio Plugin
 - Open Roblox Studio and open any Experience
 - Check in Plugins Tab if there is the LuauJS Framework
 <img width="480" height="53" alt="image" src="https://github.com/user-attachments/assets/dbd2dacd-c561-42b8-a1c2-add71c4cae93" />
+
 - If there is the Plugin, then go ahead to the **How to Set Up** Part Below.
 - If there isn't the Plugin, then open the Toolbox:
 <img width="478" height="51" alt="image" src="https://github.com/user-attachments/assets/d67fcee3-cdc5-4e3f-b974-5abe776bc442" />
